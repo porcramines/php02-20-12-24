@@ -1,0 +1,3 @@
+Actividad propuesta S9:
+
+El cliente juan, quiere un modulo para validar usuarios, y no cuenta con una base de datos, puede crearle un módulo para almacenar los sus usuarios y contraseñas, puede ser talvez en un archivo de texto plano dentro del servidor.
