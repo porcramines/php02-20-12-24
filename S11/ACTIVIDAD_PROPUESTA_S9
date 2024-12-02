@@ -1,0 +1,2 @@
+El director de la I.E. necesita un módulo de validación del “SUPER USUARIO” de la base de datos, y su secretaria también necesita un usuario de solo lectura:
+Según lo descrito debe crear dos formularios para que puedan validar los usuarios en la Base de datos de la I.E., no olvide los mensajes de éxito o fracaso del formulario.
