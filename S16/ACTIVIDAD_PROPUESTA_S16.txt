@@ -1,0 +1,2 @@
+El sr Juan tiene una tienda de abarrotes llamado “El Tio Lolo” y  necesita una pagina web, para mostrar un reporte de sus productos, en dicho reporte necesita visualizar detalles como
+Nombre producto, fecha de compra, precio de compra, y las características
